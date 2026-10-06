@@ -1,0 +1,7 @@
+Build a minimal "Students Management API" using Node's raw module.
+
+features:
+        1. GET/Students -> return all Students
+        2. POST/Students -> add a Student
+        3. GET/Students/:id -> return single Student
+        4. 404 for unknown routes
